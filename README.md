@@ -6,17 +6,18 @@ A data analysis project exploring customer purchasing behavior during the Diwali
    
 📌 Table of Contents
 
-   About the Project
-   Dataset
-   Tech Stack
-   Project Structure
-   Installation
-   Usage
-   Key Insights
-   Visualizations
-   Future Improvements
-   Contributing
-   License
+   1.About the Project.
+   2.Dataset.
+   3.Tech Stack.
+   4.Project Structure.
+   5.Installation.
+   6.Usage.
+   7.Key Insights.
+   8.Visualizations.
+   9.Future Improvements.
+   10.Contributing.
+   11.License.
+   
 📖 About the Project
 
 This project analyzes Diwali sales data to understand:

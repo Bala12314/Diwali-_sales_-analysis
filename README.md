@@ -6,7 +6,6 @@ A data analysis project exploring customer purchasing behavior during the Diwali
    
 📌 Table of Contents
 
-
    About the Project
    Dataset
    Tech Stack
@@ -18,6 +17,16 @@ A data analysis project exploring customer purchasing behavior during the Diwali
    Future Improvements
    Contributing
    License
+📖 About the Project
 
+This project analyzes Diwali sales data to understand:
+
+
+Who is buying (age, gender, marital status, occupation, location)
+What is being bought (product categories)
+How much is being spent (order value, amount trends)
+
+
+The goal is to help businesses make data-driven decisions on marketing, inventory, and customer targeting during the festive season.
 
 

@@ -6,8 +6,8 @@ A data analysis project exploring customer purchasing behavior during the Diwali
    
 📌 Table of Contents
 
-   /n1.About the Project.
-   /n2.Dataset.
+   1.About the Project.
+   2.Dataset.
    3.Tech Stack.
    4.Project Structure.
    5.Installation.

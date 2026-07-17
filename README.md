@@ -47,5 +47,6 @@ Source: Kaggle - Diwali Sales Data (update link if using a different source)
 File: Diwali Sales Data.csv
 Size: ~11,000 rows, 15 columns
 Key columns:
-ColumnDescriptionUser_IDUnique customer identifierGenderMale / FemaleAge GroupAge bracket of customerMarital_StatusMarried / UnmarriedState / ZoneCustomer locationOccupationCustomer's occupationProduct_CategoryCategory of product purchasedAmountPurchase amount
 
+Column              Description
+User_ID            Unique customer identifier

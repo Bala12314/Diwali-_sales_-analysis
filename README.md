@@ -7,16 +7,17 @@ A data analysis project exploring customer purchasing behavior during the Diwali
 📌 Table of Contents
 
 
-About the Project
-Dataset
-Tech Stack
-Project Structure
-Installation
-Usage
-Key Insights
-Visualizations
-Future Improvements
-Contributing
-License
+   About the Project
+   Dataset
+   Tech Stack
+   Project Structure
+   Installation
+   Usage
+   Key Insights
+   Visualizations
+   Future Improvements
+   Contributing
+   License
+
 
 
